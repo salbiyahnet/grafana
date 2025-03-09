@@ -1,5 +1,8 @@
 # grafana
 monitoring
+```
+https://youtu.be/M6ds-70GIpY?si=QJUku3UPyR4brc3N
+```
 
 # prometheus
 ```
